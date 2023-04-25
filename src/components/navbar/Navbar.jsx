@@ -10,7 +10,7 @@ const Menu = () => {
         <a href="#home">Home</a>
       </p>
       <p>
-        <a href="#wgpt3">What is GPT3?</a>
+        <a href="#whatgpt3">What is GPT3?</a>
       </p>
       <p>
         <a href="#possibility">Open AI</a>
@@ -57,7 +57,7 @@ function Navbar() {
           />
         )}
         {toggleMenu && (
-          <div className="gpt3__navbar-menu_container swing-in-top-fwd">
+          <div className="gpt3__navbar-menu_container ">
             <div className="gpt3__navbar-menu_container-links">
               <Menu />
             </div>
