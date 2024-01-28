@@ -5,6 +5,9 @@ import { useState } from "react";
 
 const Menu = () => {
   console.log({ okok: "đã sửa" });
+  console.log({ okok: "đã sửa" });
+  console.log({ okok: "đã sửa" });
+  console.log({ okok: "đã sửa" });
   return (
     <>
       <p>
