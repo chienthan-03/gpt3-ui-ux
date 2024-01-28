@@ -4,6 +4,7 @@ import logo from "../../assets/logo.svg";
 import { useState } from "react";
 
 const Menu = () => {
+  console.log({ okok: "đã sửa" });
   return (
     <>
       <p>
